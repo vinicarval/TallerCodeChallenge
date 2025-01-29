@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerCodeChallenge.API", "TallerCodeChallenge\TallerCodeChallenge.API.csproj", "{FD363CEC-2D50-4A88-8330-C1F0E13DFDF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerCodeChallenge.Application", "TallerCodeChallenge.Application\TallerCodeChallenge.Application.csproj", "{28C7DF97-6CF9-4AE4-B76A-63E34504BD70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerCodeChallenge.Infrastructure", "TallerCodeChallenge.Infrastructure\TallerCodeChallenge.Infrastructure.csproj", "{BDD109F9-1F56-4BF1-A87E-DACD277195EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerCodeChallenge.Domain", "TallerCodeChallenge.Domain\TallerCodeChallenge.Domain.csproj", "{E5794088-8396-429A-BDBD-C061E0D73FD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD363CEC-2D50-4A88-8330-C1F0E13DFDF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD363CEC-2D50-4A88-8330-C1F0E13DFDF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD363CEC-2D50-4A88-8330-C1F0E13DFDF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD363CEC-2D50-4A88-8330-C1F0E13DFDF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28C7DF97-6CF9-4AE4-B76A-63E34504BD70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28C7DF97-6CF9-4AE4-B76A-63E34504BD70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28C7DF97-6CF9-4AE4-B76A-63E34504BD70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28C7DF97-6CF9-4AE4-B76A-63E34504BD70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDD109F9-1F56-4BF1-A87E-DACD277195EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD109F9-1F56-4BF1-A87E-DACD277195EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD109F9-1F56-4BF1-A87E-DACD277195EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD109F9-1F56-4BF1-A87E-DACD277195EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5794088-8396-429A-BDBD-C061E0D73FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5794088-8396-429A-BDBD-C061E0D73FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5794088-8396-429A-BDBD-C061E0D73FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5794088-8396-429A-BDBD-C061E0D73FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
